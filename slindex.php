@@ -19,7 +19,7 @@
 	
 	<section id="optmenu">
 		<ul>
-			<li><a href="">Load new psmsl database</a></li>
+			<li><a href="tddbase.php">Load new psmsl database</a></li>
 			<!--run script to load latest psmsl database from their server into our dbase-->
 			
 			<li><a href="">Access archived databases</a></li>
